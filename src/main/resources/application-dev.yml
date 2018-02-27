@@ -1,0 +1,6 @@
+
+server:
+  port: 8081
+girl:
+  cupSize: G-2
+  name: zhangsan-2
